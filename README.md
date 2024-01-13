@@ -34,4 +34,4 @@ The script should automatically open bot and reload it if needed. If something b
 
 ### Script
 
-You can find it [here in main.js]()
+You can find it [here in main.js](https://github.com/moja-dev/notcoin-miner/blob/main/main.js)
